@@ -14,7 +14,8 @@ Dependence
 To make this project work, below features or information must be ready beforehand in the environment. 
   - Node.JS
   - express
-  - A valid OpenAI API key
+  - A valid OpenAI API key<br>
+
 To deploy the project online, additional feature are required to make the service available.
   - pm2
 
